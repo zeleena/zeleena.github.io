@@ -12,18 +12,18 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://zeleena.github.io/
-baseurl: /sustain/
+baseurl: /
 title: Zeleena
 author: Zeleena
 description: Personal blog and resume
 avatar: profile.png
-email: yourname@email.com
-github: jekyller/sustain # username
+email: zeleenak@gmail.com
+github: zeleena # username
 twitter: username
-linkedin: username
+linkedin: zeleena
 stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
-disqus: username
+#disqus: username
 google_analytics: UA-69391421-1
 
 
