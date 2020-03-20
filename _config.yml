@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # top level stuff you probably don't need to touch
 highlighter: rouge
 markdown: kramdown
@@ -29,3 +30,6 @@ google_analytics: UA-69391421-1
 
 # needed for travis-ci build
 exclude: [vendor]
+=======
+theme: jekyll-theme-hacker
+>>>>>>> parent of 424797c... trying the sustain theme
