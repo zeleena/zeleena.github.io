@@ -1,21 +1,21 @@
-<<<<<<< HEAD
-## Thanks for Sustain
+# Personal Website
 
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
+This repo is for my personal website hosted at [https://zeleena.com](https://zeleena.com).
 
+## About
 
-## Copyright & License
+### System
 
-Copyright (C) 2015-2017 - Released under the MIT License.
+The website is running [nginx](https://www.nginx.com/) on a [DigitalOcean](https://www.digitalocean.com/) instance with Ubuntu 18.04.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+### Frontend
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Although I consider myself a software _infrastructure_ engineer, I developed the frontend myself (what I mean is, without using a template). But I didn't do it alone! In addition to searching for all kinds of HTML/CSS and JavaScript questions, I also used these sources for a little more style:
+* [Google Fonts](https://fonts.google.com/)
+  * for content font
+* [LogoHub.io](https://logohub.io/)
+  * for the favicon
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-=======
-# zeleena.github.io
+### Contact
 
-Repository for Zeleena' personal website, found at [zeleena.com](https://zeleena.com)
->>>>>>> parent of 424797c... trying the sustain theme
+You can reach me at [zeleenak@gmail.com](mailto:zeleenak@gmail.com).
