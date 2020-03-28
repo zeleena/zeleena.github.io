@@ -7,7 +7,7 @@
 website_dir=/srv/www/zeleena/
 github_dir=/home/zeleena/zeleena.github.io/
 
-sudo rsync -av --exclude='*.sh' --del $github_dir $website_dir
+sudo rsync -av --exclude='*.sh' --exclude=".*" --del $github_dir $website_dir
 
 # Reload to attempt to not disrupt traffic, if any.
 sudo systemctl reload nginx
