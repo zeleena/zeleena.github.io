@@ -1,5 +1,8 @@
-.center-text {
-  text-align: center;
+body {
+  font-family: Oxygen;  
+  margin-left: auto;
+  margin-right: auto;
+  width: 88%;
 }
 
 .counter {
@@ -8,14 +11,6 @@
   left: 40%;
   text-align: center;
   font-size: 13px;
-}
-
-body {
-  font-family: Oxygen;
-/* This'll get the whole page since I can't use font-face: https://css-tricks.com/dont-just-copy-the-font-face-out-of-google-fonts-urls/ */
-  margin-left: auto;
-  margin-right: auto;
-  width: 88%;
 }
 
 a:link { /* Unvisited. */
@@ -50,6 +45,35 @@ a.home-title:hover {
 
 a.home-title:active {
   color: #399AFF;
+}
+
+div.home-title {
+  overflow: hidden;
+  position: relative;
+  top: 20px;
+}
+
+div.home-title-img {
+  float: left;
+  top: 20px;
+}
+
+div.home-title-words {
+  float: left;
+  position: relative;
+}
+
+img.home-title {
+  float: left;
+  width: 50px;
+  height: 50px;
+}
+
+h1.home-title {
+  position: relative;
+  font-family: Volkhov;
+  top: -10px;
+  left: 18px;
 }
 
 #favicon {
