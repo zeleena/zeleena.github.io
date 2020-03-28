@@ -15,6 +15,7 @@ Although I consider myself a software _infrastructure_ engineer, I developed the
   * for content font
 * [LogoHub.io](https://logohub.io/)
   * for the favicon
+* [Emoji reference](https://www.w3schools.com/charsets/ref_emoji.asp)
 
 ### Contact
 
