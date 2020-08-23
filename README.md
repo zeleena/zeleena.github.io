@@ -6,7 +6,7 @@ This repo is for my personal website hosted at [https://zeleena.com](https://zel
 
 ### System
 
-The website is running [nginx](https://www.nginx.com/) on a [DigitalOcean](https://www.digitalocean.com/) instance with Ubuntu 18.04.
+The website is running [nginx](https://www.nginx.com/) on an Amazon EC2 instance with Amazon Linux 2.
 
 ### Frontend
 

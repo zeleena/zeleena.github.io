@@ -5,7 +5,7 @@
 
 # Custom website directory. Change at /etc/nginx/nginx.conf.
 website_dir=/var/www/zeleena.com/public_html
-github_dir=/var/www/zeleena.com/zeleena.github.io/
+github_dir=/home/ec2-user/zeleena.github.io/
 
 sudo rsync -av --exclude='*.sh' --exclude=".*" --del $github_dir $website_dir
 
