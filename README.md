@@ -21,4 +21,4 @@ Although I consider myself a software _infrastructure_ engineer, I developed the
 
 ### Contact
 
-You can reach me at [zeleenak@gmail.com](mailto:zeleenak@gmail.com) or on GitHub here.
+You can reach me at [zeleenak@gmail.com](mailto:zeleenak@gmail.com) or here on GitHub.
